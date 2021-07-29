@@ -7,7 +7,7 @@
 ✉️ How to reach me via <a href="mailto:danieldbf@gmail.com">e-mail</a> and <a href="https://www.linkedin.com/in/daniel-barros-flores-31822422/?locale=en_US" target="_blank">Linkedin</a>.<br/>
  
 👅Languages<br/>
-:us: / :es: / :brazil:
+ :us: / :es: / :brazil:
 <br/><br/>
 🥇 Certificates<br/>
 <div>
