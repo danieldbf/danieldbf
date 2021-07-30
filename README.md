@@ -2,7 +2,7 @@
  
  Welcome to my repository.⚙
  
-🖥️ I use daily <strong>`.linux` `.shell script` `.rest` `.json` `.soap` `.oracle` `.gelscript` `.nodejs` `postman`</strong>.<br/>
+🖥️ I use daily <strong>`.linux` `.shell script` `.javascript` `.rest` `.json` `.soap` `.oracle` `.gelscript` `.nodejs` `postman`</strong>.<br/>
 📚 I’m currently learning about <strong><em>cloud, architect solution, linux, API's and systems integrations</em></strong>.<br/>
 ✉️ How to reach me via <a href="mailto:danieldbf@gmail.com"><img width="2.5%" height="2.5%" src="https://github.com/danieldbf/danieldbf/blob/main/logo-gmail-256.png"/></a> <a href="https://www.linkedin.com/in/daniel-barros-flores-31822422/?locale=en_US" target="_blank"><img width="2.5%" height="2.5%" src="https://github.com/danieldbf/danieldbf/blob/main/linkedin.png"/></a>.<br/>
 📷 My favorite hobby is photografy <a href="https://www.flickr.com/lifeideas" target="_blank"><img width="4%" height="4%" src="https://github.com/danieldbf/danieldbf/blob/main/flickr-logo.png"/></a>.
