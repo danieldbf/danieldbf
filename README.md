@@ -22,7 +22,7 @@ ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldbf&theme=algolia&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danieldbf)](https://github.com/danieldbf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldbf&layout=compact)](https://github.com/danieldbf/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=danieldbf&color=blue&style=flat)
